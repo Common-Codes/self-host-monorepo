@@ -12,7 +12,7 @@ To host Crispy on the Global Instance, simply start hosting the repo on localhos
 
 *We recommend hosting Crispy on Firebase, which it was designed for. For Firestore security rules, go to [`SECURITY.md`](https://github.com/Common-Codes/self-host-monorepo/blob/main/crispy/SECURITY.md).
 
-Crispy **can** be hosted on other NoSQL backends, but some major changes are needed. This may get covered in a future update of these docs.
+Crispy **can** be hosted on other SQL/NoSQL backends, but some major changes are needed. This may get covered in a future update of these docs.
 
 ### Advanced
 **💡Tip:** We recommend hosting Crispy and verbose on the same VPS.
