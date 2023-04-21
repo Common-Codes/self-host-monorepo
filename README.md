@@ -8,8 +8,8 @@ A monorepo containing self-hosting docs on everything C-C
 
 [Shnitters](https://github.com/Common-Codes/self-host-monorepo/tree/main/shnitters)
 
-[uTube]()
+[uTube](https://github.com/Common-Codes/self-host-monorepo/tree/main/uTube)
 
-[verbose]()
+[verbose](https://github.com/Common-Codes/self-host-monorepo/tree/main/verbose)
 
 </details>

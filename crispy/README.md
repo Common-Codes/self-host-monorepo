@@ -1,4 +1,4 @@
-# Self-Hosting [Crispy](https://crispychat.tech)
+# Self-Hosting [Crispy](https://common-codes.github.io/crispy)
 **This guide is for users who have a basic understanding of hosting locally or on VPS service's**
 
 ## Forking the repo

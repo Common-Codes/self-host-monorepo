@@ -1,4 +1,4 @@
-# Self-Hosting [Shnitters](https://shnitters.nl)
+# Self-Hosting [Shnitters](https://common-codes.github.io/shnitters)
 **This guide is for users who have a basic understanding of hosting locally or on VPS service's**
 
 ## Forking the repo
