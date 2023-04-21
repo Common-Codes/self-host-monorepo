@@ -11,7 +11,8 @@ We use rules version 2, as Shnitters uses [collection group queries](https://fir
 ```
 match /status/{statusId} {
     allow read;
-    allow write, create, update: if request.auth.uid != null;
+    allow write, create: if request.auth.uid != null
+    allow update: if request.auth.uid == userId;
     
     match /comments/{comment} {
         allow read;
@@ -27,7 +28,7 @@ match /status/{statusId} {
 match /users/{userId} {
     allow read;
     allow create: if request.auth.uid != null;
-    allow write, delete: if request.auth.uid == userId;
+    allow write, update, delete: if request.auth.uid == userId;
 }
 ```
 > Openly Readable, no private data stored.
