@@ -1,4 +1,5 @@
 # Self-Hosting [Crispy](https://common-codes.github.io/crispy)
+> _**NOTICE:** Crispy is now deprecated and to be replaced with Crispy-Chat. Refer to Crispy-Chat docs to prevent compatibility issues, improved security, and more!_
 **This guide is for users who have a basic understanding of hosting locally or on VPS service's**
 
 ## Forking the repo
